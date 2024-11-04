@@ -23,5 +23,6 @@ return {
     533297, -- nyarc
     496177,  -- xwe
     560624, 587944,  -- ePan .onlyvan
-    853248 -- nathanael
+    853248, -- nathanael
+    554393 -- tyrexxx
 }
